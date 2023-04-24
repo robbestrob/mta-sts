@@ -2,4 +2,4 @@ version: STSv1
 mode: enforce
 mx: mx1-eu1.ppe-hosted.com
 mx: mx2-eu1.ppe-hosted.com
-max_age: 604800
+max_age: 1209600
