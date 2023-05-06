@@ -1,5 +1,4 @@
 version: STSv1
 mode: enforce
-mx: mx1-eu1.ppe-hosted.com
-mx: mx2-eu1.ppe-hosted.com
+mx: streamcomputers-co-uk.mail.protection.outlook.com
 max_age: 2419200
